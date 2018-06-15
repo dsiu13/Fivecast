@@ -1,3 +1,3 @@
 # Fivecast
-- Simple app to demo react with redux.
+- Simple app that gets weather data to demo react with redux.
 ![Example](Example.png)
